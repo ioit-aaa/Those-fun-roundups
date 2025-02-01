@@ -9,7 +9,7 @@
 
 ------
 
-~~~怎么还没有人贡献~~~
+~~怎么还没有人贡献~~
 
 ## Stargazers over time
 [![Stargazers over time](https://starchart.cc/fuydg/Those-fun-roundups.svg?variant=adaptive)](https://starchart.cc/fuydg/Those-fun-roundups)
