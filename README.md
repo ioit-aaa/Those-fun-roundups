@@ -11,5 +11,9 @@
 
 > 怎么还没有人贡献
 
+## Stargazers over time
+[![Stargazers over time](https://starchart.cc/fuydg/Those-fun-roundups.svg?variant=adaptive)](https://starchart.cc/fuydg/Those-fun-roundups)
+
+## contributors
 <a href="https://github.com/fuydg/Those-fun-roundups/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=fuydg/Those-fun-roundups" />
