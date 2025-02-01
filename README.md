@@ -10,3 +10,6 @@
 ------
 
 > 怎么还没有人贡献
+
+<a href="https://github.com/fuydg/Those-fun-roundups/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=fuydg/Those-fun-roundups" />
