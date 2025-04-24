@@ -9,6 +9,8 @@
 [#16](https://github.com/huaweicloud/huaweicloud-sdk-php-obs/issues/16)
 - 合并
 [#16819](https://github.com/langgenius/dify/pull/16819)
+- 這年頭法人帶頭抄襲眼睛都不帶眨一下的嗎？
+[#9](https://github.com/ITRI-BDL-D/CQL-Project-template/issues/9)
 
 ------
 
