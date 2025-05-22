@@ -13,3 +13,8 @@
    - 创建好分差之后下一步就是要把代码拉取到本地了！这里假设你使用 `SSH` 将代码拉取到本地
    ```bash
    git clone git@github.com:<你的用户名>/Those-fun-roundups.git
+   ```
+   2. 🎉 好了，你现在可以修改内容并提交 `PR` 了
+   - [点我提交 PR](https://github.com/ioit-aaa/Those-fun-roundups/compare)
+   - [如何正确地提github issue？开源项目作者来和你聊聊这个重要技能](https://www.youtube.com/watch?v=_2p3WPdlLOg)
+   - [开源项目作者带你做开源！介绍一下使用github做代码贡献的基本流程](https://b23.tv/DkoohNT)
