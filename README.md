@@ -22,7 +22,7 @@
 - 腾讯云go sdk 一个年龄7年repo 1.6k commit 有20w个tag 导致go get拉取直接timeout
 [#280](https://github.com/TencentCloud/tencentcloud-sdk-go/issues/280)
 
-Support Harmony Next PC
+- Support Harmony Next PC
 [#249326](https://github.com/microsoft/vscode/issues/249326)
 
 ------
